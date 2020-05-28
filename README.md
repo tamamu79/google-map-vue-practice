@@ -1,4 +1,4 @@
-# test
+# google-map-vue-practice
 
 ## Project setup
 ```
@@ -9,6 +9,8 @@ npm install
 ```
 npm run serve
 ```
+
+上記まで行えばローカルで確認できます
 
 ### Compiles and minifies for production
 ```
